@@ -16,3 +16,5 @@ Simple definitions:
 
 Primary key (PK): a column that uniquely identifies each row (like an Aadhaar number).
 Foreign key (FK): a column that points to the primary key of another table. It stops you from entering a transaction for a book that doesn't exist.
+
+Create DB
